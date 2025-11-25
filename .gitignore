@@ -1,0 +1,15 @@
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+
+
+# Playwright artifacts
+playwright-report/
+test-results/
+
+
+# VSCode
+.vscode/
